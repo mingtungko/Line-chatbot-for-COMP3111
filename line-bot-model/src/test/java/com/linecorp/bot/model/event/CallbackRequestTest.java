@@ -12,6 +12,7 @@
  * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
  * License for the specific language governing permissions and limitations
  * under the License.
+ * *fvbgnggbnh
  */
 
 package com.linecorp.bot.model.event;
@@ -134,7 +135,7 @@ public class CallbackRequestTest {
 //            assertThat(message).isInstanceOf(LocationMessageContent.class);
 //            if (message instanceof LocationMessageContent) {
 //                assertThat(((LocationMessageContent) message).getAddress())
-//                        .isEqualTo("ã€’150-0002 æ�±äº¬éƒ½æ¸‹è°·åŒºæ¸‹è°·ï¼’ä¸�ç›®ï¼’ï¼‘âˆ’ï¼‘");
+//                        .isEqualTo("瓊���150-0002 疆嚙蝓掙刈甄珍怖衛汕詹�嘔阬兜溼汀疑汕詹�嘔阬兜溼純潑�刈賂蕭癟�甄捌純潑�純潑�〩�純潑��");
 //            }
 //        });
 //    }
